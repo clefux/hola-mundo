@@ -1,2 +1,2 @@
 # hola-mundo
-Repositorio para prueba de sincronización.
+prueba de sincronización.
